@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyPayProject.CsvImporter" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>CsvImporter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.PayRecord" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAgACAIAAAACAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>PayRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.PayRecordWriter" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>PayRecordWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.Program" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.ResidentPayRecord" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ResidentPayRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.TaxCalculator" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>TaxCalculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyPayProject.WorkingHolidayPayRecord" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAQAEAAAAAAQAAAAA=</HashCode>
+      <FileName>WorkingHolidayPayRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
